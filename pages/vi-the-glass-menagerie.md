@@ -15,3 +15,5 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a>
 <hr>
 <br>
+The transcription of the play's timestamps are going to be a little bit off, but overall the purpose for them is more to be in the general area as well as letting the viewer have the words in front of them as well as through the audio. 
+<br>
