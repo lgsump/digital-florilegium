@@ -12,7 +12,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
-Gilles Deleuze was a French philosopher who worked heavily in causality and aesthetic, literary, and film theory. This essay will focus on his two works on film <i>Cinema I: The Movement-Image</i> and <i>Cinema II: The Time-Image</i> published in 1983 and 1985, respectively.
+Gilles Deleuze was a French philosopher who worked heavily in causality and aesthetic, literary, and film theory. This essay will focus on his two works on film, <i>Cinema I: The Movement-Image</i> and <i>Cinema II: The Time-Image</i>, published in 1983 and 1985, respectively.
 <br>
 <br>
 <p style="text-align:center;"><img width="302" alt="Screen Shot 2023-03-08 at 11 42 23 PM" src="https://user-images.githubusercontent.com/122332459/223931379-30258981-ff66-4af0-83c9-7f8eda360e46.png"></p>
