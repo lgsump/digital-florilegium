@@ -1,8 +1,8 @@
 ---
 layout: item
-title: VI. The Glass Menagerie
-manifest_name: vi-the-glass-menagerie
-permalink: vi-the-glass-menagerie
+title: VII. The Glass Menagerie
+manifest_name: vii-the-glass-menagerie
+permalink: vii-the-glass-menagerie
 external_manifest_url: 
 
 ---
