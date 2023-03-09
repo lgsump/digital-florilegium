@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "A Digital Florilegium" ] },
+    "summary": { "en": [ "A collection of digital art; how time and transformation play a role in their authenticity. " ] },
+    "items": [
+    ]
+}
