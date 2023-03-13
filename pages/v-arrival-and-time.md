@@ -8,7 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h1><center><i>Arrival</i> and Time</center>
 <h3><center>An essay and discussion of the previous two clips regarding the film <i>Arrival</i> (2016).</center>
 <hr>
-<p style="text-align:center;"><img width="73" alt="Screen Shot 2023-02-14 at 6 36 45 PM" src="https://user-images.githubusercontent.com/122332459/218895077-86f3c170-98ea-4b93-b802-819fe61e8277.png"></p>
+<p style="text-align:center;"><img width="94" alt="Screen Shot 2023-02-13 at 12 43 05 PM" src="https://user-images.githubusercontent.com/122332459/218546393-026bd5f3-d5ee-441c-b625-48aa6642dcdb.png"></p>
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <hr>
 <br>
