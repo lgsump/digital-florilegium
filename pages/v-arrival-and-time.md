@@ -9,10 +9,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h3><center>An essay and discussion of the previous two clips regarding the film <i>Arrival</i> (2016).</center>
 <hr>
 <p style="text-align:center;"><img width="73" alt="Screen Shot 2023-02-14 at 6 36 45 PM" src="https://user-images.githubusercontent.com/122332459/218895077-86f3c170-98ea-4b93-b802-819fe61e8277.png"></p>
-<h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a>
+<h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
-<h3>Spoiler warnings!</h3>
-<hr>
+<br>
 <i>Arrival</i> (2016), a Denis Villenevue film, explores the role of time and our understanding of it into how it involves itself as a structure within our lives. We follow Dr. Louise Banks and her life after seemingly losing her daughter to a serious disease. In this short essay, we will point out different aspects of the film, some included in the commentaries in the clips shown before and some not, that realize some key points that Deleuze hinted to us but also give us more simplistic conceptions of the influence that time has on art and our perception of life. 
 <br>
 <br>
@@ -20,7 +19,7 @@ The film has now become a large centerpiece for philosophical and linguistic rep
 <br>
 <br>
 <br>
-<p style="text-align:center;"><img width="200" alt="<img width="82" alt="Screen Shot 2023-03-12 at 6 49 48 PM" src="https://user-images.githubusercontent.com/122332459/224581969-13c76853-e305-4e9a-b53e-9b2a3d31f5c1.png"></p>
+<p style="text-align:center;"><img width="82" alt="Screen Shot 2023-03-12 at 6 49 48 PM" src="https://user-images.githubusercontent.com/122332459/224581969-13c76853-e305-4e9a-b53e-9b2a3d31f5c1.png"></p>
   <h6><center>Picture from <a href="https://www.pinterest.com/pin/476959416790757876/">Pinterest.</a></h6> 
 <br>
 <br>
