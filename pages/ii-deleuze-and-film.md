@@ -6,7 +6,7 @@ permalink: ii-deleuze-and-film
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h1><center>Deleuze and Film</center>
-<h3><center>Time, Movement, and Image in Gilles Deleuze's cinematic works.</center>
+<h3><center>Time, Movement, and Image in Gilles Deleuze's works on Cinema.</center>
 <hr>
 <p style="text-align:center;"><img width="99" alt="Screen Shot 2023-02-13 at 12 29 40 PM" src="https://user-images.githubusercontent.com/122332459/218543739-64380a75-808f-4739-98da-09461dbb0ff7.png"></p>
 <h6><center> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
