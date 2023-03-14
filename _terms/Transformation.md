@@ -10,7 +10,7 @@ layout: term
 <p style="text-align:center;"><img width="200" alt="Screen Shot 2023-03-13 at 7 01 20 PM" src="https://user-images.githubusercontent.com/122332459/224858207-efb7c32d-94f4-4970-a8ce-e44fc0e22691.png">
 
   </p>
-<h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a>
+<h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <hr>
 <br>
-<h5>The inclusion of these collections is for a visual purpose to bring to light and refresh your memory on how the theme of transformation has been present in each of the digital artworks. </h5>
+<h4>The inclusion of these collections is for a visual purpose to bring to light and refresh your memory on how the theme of transformation has been present in each of the digital artworks. </h4>
