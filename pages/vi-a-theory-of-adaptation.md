@@ -6,7 +6,7 @@ permalink: vi-a-theory-of-adaptation
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h1><center><i>A Theory of Adaptation</i> by Linda Hutcheon</center>
-<h3><center>Short essay and symptomatic reading of Linda Hutcheon’s 2012 book.</center>
+<h3><center>Symptomatic reading of Linda Hutcheon’s 2012 book and a focus on digitalization.</center>
 <hr>
 <p style="text-align:center;"><img width="88" alt="Screen Shot 2023-02-13 at 5 54 18 AM" src="https://user-images.githubusercontent.com/122332459/218451227-29027d95-81a2-4124-897b-06256ee57e1b.png"></p>
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
