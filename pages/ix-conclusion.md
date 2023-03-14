@@ -12,4 +12,4 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <hr>
 <br>
-<h4>-</h4>
+<h4>Through the film, a radio play, and a transformation from poetry to music and video, this project has evaluated different aspects of film and literary theory and philosophy of art to review the authenticity of these digital artworks. </h4>
