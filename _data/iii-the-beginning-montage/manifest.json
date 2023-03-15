@@ -59,14 +59,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-dialogue.json",
-            "label": {
-              "none": ["Dialogue"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-time-scene-5.json",
             "label": {
               "none": ["Time scene 5"]
