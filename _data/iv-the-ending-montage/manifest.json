@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/iv-the-ending-montage-canvas-1-time-scene-1.json",
-            "label": {
-              "none": ["Time scene 1"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/iv-the-ending-montage-canvas-1-general-commentary.json",
             "label": {
               "none": ["General Commentary"]
