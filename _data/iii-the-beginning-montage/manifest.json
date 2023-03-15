@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-dialogue--narration.json",
-            "label": {
-              "none": ["Dialogue, Narration"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-score.json",
             "label": {
               "none": ["Score"]
