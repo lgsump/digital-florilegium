@@ -11,4 +11,4 @@ layout: term
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <hr>
 <br>
-<h4>Below is all the annotations that are linked to the theme of time throughout the different examples. Unfortunately, the code for the ability to listen/watch all of the media together on this page is still in progress. However, this page can still act as a experience bank and visual picture of how each piece we've looked at regards to this theme after going through it all. </h4>
+<h4>Below are all the annotations that are linked to the theme of time throughout the different examples. Unfortunately, the code for the ability to listen/watch all of the media together on this page is still in progress. However, this page can still act as an experience bank and visual picture of how each piece we've looked at regards to this theme after going through it all.</h4>
