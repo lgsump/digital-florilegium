@@ -11,6 +11,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 <hr>
   <h1><center>Works Cited</center>
 <hr>
+<h4>Adajian, Thomas, "The Definition of Art", The Stanford Encyclopedia of Philosophy (Spring 2022 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/spr2022/entries/art-definition/.
+<br>
+<br>
 <h4><i>Arrival</i>. Directed by Denis Villeneuve, performances by Amy Adams and Jeremy Renner, director’s cut, Paramount Pictures, FilmNation Entertainment, Lava Bear Films, 21 Laps Entertainment, 2016. <i>Internet Archive</i>. https://archive.org/details/ArrivalEnding and https://archive.org/details/arrival-beginning.
 <br>
 <br>
