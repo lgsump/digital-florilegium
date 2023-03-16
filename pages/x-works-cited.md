@@ -14,8 +14,17 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h4>Adajian, Thomas, "The Definition of Art", The Stanford Encyclopedia of Philosophy (Spring 2022 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/spr2022/entries/art-definition/.
 <br>
 <br>
+All For Dead Time. “Deleuze and the Crystal-Image.” All For Dead Time Wordpress, 30 Oct. 2009, https://allfordeadtime.wordpress.com/2009/10/30/deleuze-and-the-crystal-image/. 
+<br>
+<br>
 <h4><i>Arrival</i>. Directed by Denis Villeneuve, performances by Amy Adams and Jeremy Renner, director’s cut, Paramount Pictures, FilmNation Entertainment, Lava Bear Films, 21 Laps Entertainment, 2016. <i>Internet Archive</i>. https://archive.org/details/ArrivalEnding and https://archive.org/details/arrival-beginning.
 <br>
+  <br>
+  Braiterman, Zachary. “Movement and Time Images (Deleuze) (Cinema 1 Cinema 2).” Jewish Philosophy Place, 26 Mar. 2022, https://jewishphilosophyplace.com/2018/05/03/movement-and-time-images-deleuze-cinema-1-cinema-2/. 
+  <br>
+  <br>
+  “Cinema: The Classification of Signs and Time, Lecture 02, 23 November 1982.” Cinema: The Classification of Signs and Time, Lecture 02, 23 November 1982 | The Deleuze Seminars, https://deleuze.cla.purdue.edu/seminars/cinema-classification-signs-and-time/lecture-02. 
+  <br>
 <br>
 Deleuze, Gilles, et al. <i>The Time-Image Gilles Deleuze ; Translated by Hugh Tomlinson and Robert Galeta.</i> University of Minnesota, 1989.
 <br>
@@ -25,8 +34,14 @@ Hutcheon, Linda, and Siobhan. O’Flynn. <i>A Theory of Adaptation / Linda Hutch
 <br>
 “I sit here immobile - Translucence - Poetry: Derek Jarman Music: Donna McKevitt.” <i>YouTube</i>, uploaded by Chris Briggs. 6 Dec. 2009. https://www.youtube.com/watch?v=Fh2Uw8rwYY4. <i>Internet Archive.</i> https://archive.org/details/i-sit-here-immobile-translucence. 
 <br>
+  <br>
+  Mambrol, Nasrullah. “Gilles Deleuze and Film Theory.” Literary Theory and Criticism, 7 Aug. 2018, https://literariness.org/2018/08/06/gilles-deleuze-and-film-theory/. 
+  <br>
 <br>
 O'Brien, Elaine. “Charles Baudelaire, On Photography, from The Salon of 1859.” <i>CSUS Art 109 Readings,</i> 22 Jan. 2005, https://www.csus.edu/indiv/o/obriene/art109/readings/11%20baudelaire%20photography.htm. 
 <br>
 <br>
 Williams, Tennessee. “The Glass Menagerie.” Digitizing Sponsor, Kahle-Austin Foundation. Performed by Montgomery Clift; Julie Harris; Jessica Tandy; David Wayne; Howard Sackler. <i>Internet Archive.</i> https://archive.org/details/lp_the-glass-menagerie_tennessee-williams-montgomery-clift-julie/disc1/01.01.+The+Glass+Menagerie%3A+Scenes+1%2C+2%2C+3.mp3.
+  <br>
+  <br>
+  Williams, Tennessee. “The Glass Menagerie Pdf.” Victory Christian School, https://vcstulsa.org/wp-content/uploads/2019/03/theGlassMenageriefulltext.pdf. 
