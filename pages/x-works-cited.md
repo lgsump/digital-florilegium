@@ -8,6 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p style="text-align:center;"><img width="482" alt="Screen Shot 2023-02-13 at 4 18 30 PM" src="https://user-images.githubusercontent.com/122332459/218587333-3ecd3bbb-55e6-434a-aa1b-fc0af2db4f40.png"></p>
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <br>
+<hr>
   <h1><center>Works Cited</center>
 <hr>
 <h4><i>Arrival</i>. Directed by Denis Villeneuve, performances by Amy Adams and Jeremy Renner, director’s cut, Paramount Pictures, FilmNation Entertainment, Lava Bear Films, 21 Laps Entertainment, 2016. <i>Internet Archive</i>. https://archive.org/details/ArrivalEnding and https://archive.org/details/arrival-beginning.
