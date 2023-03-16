@@ -7,7 +7,8 @@ layout: home
 <p style="text-align:center;"><img width="482" alt="Screen Shot 2023-02-13 at 4 18 30 PM" src="https://user-images.githubusercontent.com/122332459/218587333-3ecd3bbb-55e6-434a-aa1b-fc0af2db4f40.png"></p>
 <h6><center>Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></center>
 <br>
-  <h1><center>Why a florilegium? What is a florilegium?</center>
+<hr>
+<h1><center>Why a florilegium? What is a florilegium?</center>
 <hr>
 <h4>A florilegium, as shown above, is rooted from a term that describes a book that is filled with paintings of flowers. I will, and attempt to, describe this project as a digital florilegium. Firstly, it is a collection of digital art including recordings, music, and film. I am also using it as an analogy itself, as to say that each piece of this collection can be seen as individual works, but I am also drawing together a larger picture of time and transformation between them.
 <br>
