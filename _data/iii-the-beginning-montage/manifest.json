@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-time-scene-8.json",
-            "label": {
-              "none": ["Time scene 8"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/iii-the-beginning-montage-canvas-1-time-scene-3.json",
             "label": {
               "none": ["Time scene 3"]
