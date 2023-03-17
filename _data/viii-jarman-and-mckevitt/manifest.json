@@ -32,14 +32,6 @@
               "none": ["Video captions, mistake"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-original-poem.json",
-            "label": {
-              "none": ["Original poem"]
-            }
-          }
         ],
         "items": [
           {
