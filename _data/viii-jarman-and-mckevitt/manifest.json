@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-music-script.json",
-            "label": {
-              "none": ["Music script"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-original-poem--omitted.json",
             "label": {
               "none": ["Original poem, omitted"]
