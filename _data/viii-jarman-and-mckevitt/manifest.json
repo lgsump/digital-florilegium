@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-video-captions.json",
-            "label": {
-              "none": ["Video captions"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-original-poem--omitted.json",
             "label": {
               "none": ["Original poem, omitted"]
