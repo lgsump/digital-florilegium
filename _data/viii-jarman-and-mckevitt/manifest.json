@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-commentary.json",
-            "label": {
-              "none": ["Commentary"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-video-captions.json",
             "label": {
               "none": ["Video captions"]
