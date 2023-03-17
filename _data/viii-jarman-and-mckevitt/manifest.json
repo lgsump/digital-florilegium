@@ -23,16 +23,6 @@
         "id": "https://lgsump.github.io/digital-florilegium/viii-jarman-and-mckevitt/canvas-1/canvas",
         "type": "Canvas",
         "duration": 105,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/viii-jarman-and-mckevitt-canvas-1-video-captions--mistake.json",
-            "label": {
-              "none": ["Video captions, mistake"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://lgsump.github.io/digital-florilegium/viii-jarman-and-mckevitt/canvas-1/paintings",
