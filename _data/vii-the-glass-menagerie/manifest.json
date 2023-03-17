@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digital-florilegium/annotations/vii-the-glass-menagerie-canvas-1-commentary.json",
-            "label": {
-              "none": ["Commentary"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digital-florilegium/annotations/vii-the-glass-menagerie-canvas-1-scene.json",
             "label": {
               "none": ["Scene"]
