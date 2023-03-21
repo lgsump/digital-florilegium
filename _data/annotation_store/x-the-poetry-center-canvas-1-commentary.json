@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digital-florilegium/annotations/x-the-poetry-center-canvas-1-commentary.json",
+  "type": "AnnotationPage",
+  "label": "Commentary",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">This gives us a historical understanding of how these digitalizations worked. At this time, it was a recording of an interaction at The Poetry Center that included Carson McCullers, Tennessee Williams, and the moderator. This introduction allows us to see that these are not direct digitalizations, but many parts of McCullers works are kept in this time capsule nonetheless.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.4,159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Now, we will see Carson McCullers, in her own voice and words, give us an understanding and background of her book and poetry. This allows for a monumental amount of scholarship to delve into not only how her work is seen on paper but also how she subtly pushes or hints at through her introduction of her own work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "200,932"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">Having a recording of Carson McCullers reading her own poetry is also a very substantial key for researchers and scholars of her work or Southern Gothic literature to know where she pauses, what words she emphasizes, and what tone she uses overall. These are important aspects of the poetry that are normally left to the reader's interpretation, with the guidance of structure and imagery by McCullers, but ultimately within the hands of the audience. Some might say that this is, like every other person who has read her poem, just a single interpretation. Once an artist releases their work into the world, it becomes a more collective piece, rather than hers or theirs. Nonetheless, for historians or archivists, this can paint a clearer picture on how she viewed her own work and how her work had changed through scholarly work on it from its origin in her mind.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "455,530"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">With the annotation of the transcription above, we can also see her timeline for her work, and it allows researchers an interesting look into the role of memory in an artist's world. With many interviews, the importance for the researcher can become much less about what they say about their work, but more about what they don't say or what they forget.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "631.2,670"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The transcription of the book itself was left out for copyright considerations, but again, there is an example of how these digitalizations can help archivists and researchers keep organized understandings of how things were. For this instance, we are getting an intricate understanding of how Tennessee Williams and Carson McCullers' relationship works, as well as how Williams understands and appreciates McCullers' work. It is interesting to think that with McCullers there, why would she, or the sponsors of the event, want Williams to do the reading. This leads to many different understandings of what is going on, some including the presence of Williams as a publicity stunt in order to raise awareness or attract interest in the event. Nonetheless, there is still insight into how these Southern artists interacted and knew each other, giving us insights to not only their work, not only how they view their work, but how they interacted with each other.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "986.2,1000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "x-the-poetry-center-canvas-1-commentary-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<font color=\"green\">The annotation above synthesizes McCullers' perception of her own work, and highlights a very important aspect of these digital artifacts. As we can see, there is not only aesthetic and artistic value in these recordings when they are discussing her work or reading out her work, but they also give an important view into how she crafts, executes, and views her work in retrospect. Giving us another reason to value these digital forms of art as important archival pieces as well as independently important works of art.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digital-florilegium/x-the-poetry-center/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1427,1500"
+        }
+      }
+    }
+  ]
+}
