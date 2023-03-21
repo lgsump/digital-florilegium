@@ -1,7 +1,7 @@
 ---
 layout: default
-title: X. Works Cited
-permalink: x-works-cited
+title: XII. Works Cited
+permalink: xii-works-cited
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
