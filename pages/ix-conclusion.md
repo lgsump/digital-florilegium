@@ -13,6 +13,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <hr>
 <br>
 <h2><center>Conclusion</center>
+<hr>
 <br>
 <h4>Through the film, a radio play, and a transformation from poetry to music and video, this project has evaluated different aspects of film and literary theory and philosophy of art to review the authenticity of these digital artworks. As we have seen, the discussion of time and movement in these digitalized artworks, especially when there is a use of video or audio, becomes at the forefront of their defense as true art. Time and time again we have seen the discussion of these translations and transformations and how they have perverted or destroyed the beauty found in earlier art forms like literature or song. The development of technology has allowed the world of artists to grow and develop in many unprecedented ways, many of them present in the collection here. Being able to scroll through an audio recording of a play, having removed the visual aspect of watching a play, can completely change how an audience interacts and feels during the performance. These questions have been evaluated and presented from a perspective of creation and interpretation that we see in both Deleuze and Hutcheon.</h4>
 <br>
@@ -27,6 +28,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <br>
 <hr>
 <h2><center>Reflection</center>
+<hr>
 <br>
 <h4>This project was created using the AudiAnnotate Extensible Workflow (AWE) which is a Mellon grant-funded workflow and web-app, created by Dr. Tanya Clement and developed by Brumfield Labs, for curating and sharing annotations of audiovisual collections held at libraries, archives, and museums. The project is hosted at the University of Texas at Austin within the Initiative for Digital Humanities. Working on this project through AudiAnnotate has been very helpful in not only working through my desires and goals for the project as I went along due to working with the materials themselves but also very helpful in that each step of the process has given great insight into the project itself as I am doing the work of putting up and realistic visualizing where the artifacts or pieces will be for the audience. This is why, while envisioning my project, having it become a work of art itself as a florilegium was very important as it intended to fuel its fire, so to say.</h4>
 <br>
