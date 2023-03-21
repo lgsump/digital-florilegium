@@ -29,6 +29,9 @@ All For Dead Time. “Deleuze and the Crystal-Image.” All For Dead Time Wordpr
 Deleuze, Gilles, et al. <i>The Time-Image Gilles Deleuze ; Translated by Hugh Tomlinson and Robert Galeta.</i> University of Minnesota, 1989.
 <br>
 <br>
+  Gaut, B. <i>The Philosophy of Creativity</i>. Philosophy Compass, 5: 1034-1046. 2010. https://doi.org/10.1111/j.1747-9991.2010.00351.x
+  <br>
+  <br>
 Hutcheon, Linda, and Siobhan. O’Flynn. <i>A Theory of Adaptation / Linda Hutcheon ; with Siobhan O’Flynn.</i> 2nd ed., Routledge, 2013, https://doi.org/10.4324/9780203095010.
 <br>
 <br>
@@ -41,7 +44,10 @@ Hutcheon, Linda, and Siobhan. O’Flynn. <i>A Theory of Adaptation / Linda Hutch
 O'Brien, Elaine. “Charles Baudelaire, On Photography, from The Salon of 1859.” <i>CSUS Art 109 Readings,</i> 22 Jan. 2005, https://www.csus.edu/indiv/o/obriene/art109/readings/11%20baudelaire%20photography.htm. 
 <br>
 <br>
-Williams, Tennessee. “The Glass Menagerie.” Digitizing Sponsor, Kahle-Austin Foundation. Performed by Montgomery Clift; Julie Harris; Jessica Tandy; David Wayne; Howard Sackler. <i>Internet Archive.</i> https://archive.org/details/lp_the-glass-menagerie_tennessee-williams-montgomery-clift-julie/disc1/01.01.+The+Glass+Menagerie%3A+Scenes+1%2C+2%2C+3.mp3.
+“Tennessee Williams and Carson McCullers at The Poetry Center, YMHA, New York, Tape 1 of 3.” Harry Ransom Center Digital Collections, https://hrc.contentdm.oclc.org/digital/collection/p15878coll113/id/70. 
+  <br>
+  <br>
+  Williams, Tennessee. “The Glass Menagerie.” Digitizing Sponsor, Kahle-Austin Foundation. Performed by Montgomery Clift; Julie Harris; Jessica Tandy; David Wayne; Howard Sackler. <i>Internet Archive.</i> https://archive.org/details/lp_the-glass-menagerie_tennessee-williams-montgomery-clift-julie/disc1/01.01.+The+Glass+Menagerie%3A+Scenes+1%2C+2%2C+3.mp3.
   <br>
   <br>
   Williams, Tennessee. “The Glass Menagerie Pdf.” Victory Christian School, https://vcstulsa.org/wp-content/uploads/2019/03/theGlassMenageriefulltext.pdf. 
