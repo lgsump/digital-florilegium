@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: VII. The Glass Menagerie
 manifest_name: vii-the-glass-menagerie
 permalink: vii-the-glass-menagerie

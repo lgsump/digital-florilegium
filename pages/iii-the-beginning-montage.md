@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: III. The Beginning Montage
 manifest_name: iii-the-beginning-montage
 permalink: iii-the-beginning-montage

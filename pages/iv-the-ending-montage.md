@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: IV. The Ending Montage
 manifest_name: iv-the-ending-montage
 permalink: iv-the-ending-montage
