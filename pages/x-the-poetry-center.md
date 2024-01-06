@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: X. The Poetry Center
 manifest_name: x-the-poetry-center
 permalink: x-the-poetry-center

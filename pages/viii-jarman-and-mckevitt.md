@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: VIII. Jarman and McKevitt
 manifest_name: viii-jarman-and-mckevitt
 permalink: viii-jarman-and-mckevitt
